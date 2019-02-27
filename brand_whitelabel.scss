@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,400i,700');
+
+$primary: rgba(53, 73, 94, 1.0);
+$secondary: #33856a;
+$font: 'Lato', sans-serif;
+$background-color: $primary;
+
+@import "app.scss";
+
